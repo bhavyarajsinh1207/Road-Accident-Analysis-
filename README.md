@@ -64,18 +64,6 @@ This dashboard gives a comprehensive view of road accident trends in India using
 - Embed dashboard on a live website
 - Add filters for age groups, gender, or accident causes
 
----
-
-## 🙌 Contributing
-
-If you have additional state-level data or want to contribute to improving the visuals, feel free to fork and create a pull request.
-
----
-
-## 📬 Contact
-
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [Your Website](https://your-website.com)
 
 ---
 
